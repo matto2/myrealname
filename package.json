@@ -368,7 +368,7 @@
     "semver": "^7.3.5",
     "rgba-regex": "^1.0.0",
     "server-destroy": "^1.0.1",
-    "shebang-regex": "^1.0.0",
+    "shebang-regex": "^4.0.0",
     "simple-swizzle": "^0.2.2",
     "setprototypeof": "^1.1.1",
     "sigmund": "^1.0.1",
