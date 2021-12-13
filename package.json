@@ -335,7 +335,7 @@
     "pug-parser": "^6.0.0",
     "pug-code-gen": "^3.0.2",
     "pug-linker": "^4.0.0",
-    "qs": "^6.2.3",
+    "qs": "^6.10.2",
     "range-parser": "^1.2.1",
     "raw-body": "^2.4.1",
     "pug-runtime": "^3.0.1",
